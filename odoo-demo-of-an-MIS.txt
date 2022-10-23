@@ -1,0 +1,17 @@
+Odoo
+	Sales
+	Purchase
+	Inventory
+	Manufacturing
+
+Odoo sales demo:
+https://youtu.be/TXkb2z5Ohf8
+
+Odoo manufacturing demo:
+https://youtu.be/5V_u0BmAMmk
+
+Odoo purchase:
+https://www.youtube.com/watch?v=ik6IyqWKQ5w
+
+Odoo dashboard:
+https://www.youtube.com/watch?v=1DN5V8duG_c
